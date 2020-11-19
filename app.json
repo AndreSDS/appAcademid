@@ -1,0 +1,12 @@
+{
+  "name": "academidApp",
+  "displayName": "academidApp",
+  "expo": {
+    "name": "academidApp",
+    "slug": "academidApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
